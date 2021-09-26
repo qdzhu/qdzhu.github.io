@@ -30,7 +30,7 @@ twitter_username: qindan_zhu
 github_username:  qdzhu
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
