@@ -5,7 +5,7 @@ pagination:
   enabled: true
 ---
 
-# Publication
+# Publications
 
 ## 2023
 \textbf{Zhu, Q.}, Place, B., Pfannerstill, E., Goldstein, A. C., Cohen, R. C. (2023). Direct observations of NOx emissions over San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Accepted, Atmospheric Chemistry and Physics.
