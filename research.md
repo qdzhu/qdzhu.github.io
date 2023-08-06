@@ -10,7 +10,7 @@ title: Research
 
 ### Interpret continental-scale OH trends in climate models
 
-![placeholder]([/assets/oh-trend-climate.png]) "OH trends in CESM2 climate model")
+![placeholder]([/assets/oh-trend-climate.png]) "OH trends in CESM2 climate model"
 
 The hydroxyl radical (OH) lies at the nexus of climate and air quality as the primary oxidant for both reactive greenhouse gases and many hazardous air pollutants. The lifetime of methane, a major anthropogenic greenhouse gas causing about one-half of the warming of carbon dioxide since pre-industrial times, is largely set by the global integral of OH concentrations, which vary strongly in space and time.
 
@@ -20,7 +20,6 @@ Therefore, we then use a machine learning (ML) technique, a fully connected neur
 
 ### Develop RACM2B-VCP mechanism for WRF-Chem
 
-![placeholder]([/assets/oh-trend-climate.png]) "")
 
 Volatile organic compound (VOC) reactions with hydroxyl radicals (OH) and nitrogen oxides (NOx) fuel the production of air pollutants like ozone and particulate matter (PM). The representation of VOC chemistry remains challenging in reduced chemical mechanisms due to its complexity in speciation and reactions. We aim to develop a chemical mechanism that is compatible with WRF-Chem that better represents VOC chemistry in urban areas such as Los Angeles. We show that this chemical mechanism, RACM2B-VCP, is based on the RACM2_Berkeley2 mechanism and includes more complex oxygenated VOC chemistry to address the impact of VCP and cooking emissions. 
 
@@ -29,8 +28,9 @@ We will evaluate how well this RACM2B-VCP mechanism simulates VOC chemistry, ozo
 
 ## Past research
 
-## Airborne NO<sub>x</sub> flux measurement (RECAP-CA)
+### Airborne NO<sub>x</sub> flux measurement (RECAP-CA)
 
-## Estimate urban OH trends using ML
 
-## Constrain lightning NO<sub>x</sub> using BEHR NO<sub>2</sub> retrievals
+### Estimate urban OH trends using ML
+
+### Constrain lightning NO<sub>x</sub> using BEHR NO<sub>2</sub> retrievals
