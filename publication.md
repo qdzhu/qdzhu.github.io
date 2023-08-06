@@ -8,11 +8,13 @@ title: Publications
 {% include contact.html %}
 
 ## 2023
+
 **Zhu, Q.**, Place, B., Pfannerstill, E., Goldstein, A. C., Cohen, R. C. (2023). Direct observations of NOx emissions over San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Accepted, Atmospheric Chemistry and Physics.
 
 Romps, D. M., Latimer, K., **Zhu, Q.**, Jurkat‐Witschas, T., Mahnke, C., Prabhakaran, T., ... & Wendisch, M. (2023). Air pollution unable to intensify storms via warm‐phase invigoration. Geophysical Research Letters, e2022GL100409. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100409)
 
 ## 2022
+
 **Zhu, Q.**, Laughner, J. L., & Cohen, R. C. (2022). Estimate of OH trends over one decade in North American cities. Proceedings of the National Academy of Sciences, 119(16), e2117399119.
 
 **Zhu, Q.**, Laughner, J. L., & Cohen, R. C. (2022). Combining Machine Learning and Satellite Observations to Predict Spatial and Temporal Variation of near Surface OH in North American Cities. Environmental Science and Technology.
@@ -22,16 +24,19 @@ Li, C., **Zhu, Q.**, Jin, X., & Cohen, R. C. (2022). Elucidating Contributions o
 Li, C., Xu, X., Liu, X., Wang, J., Sun, K., van Geffen, J., **Zhu, Q.**, Cohen, R. C. (2022). Direct Retrieval of NO2 Vertical Columns from UV-Vis (390-495 nm) Spectral Radiances Using a Neural Network. Journal of Remote Sensing.
 
 ## 2021
+
 Jin, X., **Zhu, Q.**, & Cohen, R. C. (2021). Direct estimates of biomass burning NOx emissions and lifetimes using daily observations from TROPOMI. Atmospheric Chemistry and Physics, 21(20), 15569-15587.
 
 Delaria, E. R., Place, B. K., Turner, A. J., **Zhu, Q.**, Jin, X., & Cohen, R. C. (2021). Development of a Solar-Induced Fluorescence─ Canopy Conductance Model and Its Application to Stomatal Reactive Nitrogen Deposition. ACS Earth and Space Chemistry.
 
 ## 2019
+
 **Zhu, Q.**, Laughner, J. L., & Cohen, R. C. (2019). Lightning NO$_2$ simulation over the contiguous US and its effects on satellite NO2 retrievals. Atmospheric Chemistry and Physics. 19. 13067-13078.
 
 Laughner, J. L., **Zhu, Q.**, & Cohen, R. C. (2019). Evaluation of version 3.0B of the BEHR OMI NO2 product. Atmospheric Measurement Techniques, 12(1), 129-146.
 
 ## 2018
+
 Laughner, J. L., **Zhu, Q.**, & Cohen, R. C. (2018). The Berkeley High Resolution Tropospheric NO2 product. Earth System Science Data, 10(4), 2069-2095.
 
 Wang, H., Lu, K., Chen, X., **Zhu, Q.**, Wu, Z., Wu, Y., & Sun, K. (2018). Fast particulate nitrate formation via N 2 O 5 uptake aloft in winter in Beijing. Atmospheric Chemistry and Physics, 18(14), 10483-10495.
@@ -41,5 +46,6 @@ Guan, T., Hu, S., Han, Y., Wang, R., **Zhu, Q.**, Hu, Y., ... & Zhu, T. (2018). 
 Mak, H. W. L., Laughner, J. L., Fung, J. C. H., **Zhu, Q.**, & Cohen, R. C. (2018). Improved satellite retrieval of tropospheric NO2 column density via updating of air mass factor (AMF): case study of Southern China. Remote Sensing, 10(11), 1789.
 
 ## 2017
+
 Wang, H., Lu, K., Chen, X., **Zhu, Q.**, Chen, Q., Guo, S., ... & Zhang, Y. (2017). High N2O5 concentrations observed in urban Beijing: Implications of a large nitrate formation pathway. Environmental Science & Technology Letters, 4(10), 416-420.
 
