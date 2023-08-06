@@ -2,10 +2,9 @@
 layout: cv
 title: Publications
 ---
+{% include contact.html %}
 
 # Publications
-
-{% include contact.html %}
 
 ## 2023
 
