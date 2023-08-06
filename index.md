@@ -5,14 +5,17 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am currently a NOAA Climate & Global Change (C&GC) postdoctoral fellow working with Prof. Arlene Fiore at MIT since August 2022. My research centers on climate-chemistry interaction. I study hydroxyl radical (OH) since OH lies at the nexus of climate and air quality as the primary oxidant for both reactive greenhouse gases and many hazardous air pollutants.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+In the meanwhile, I collaborate with NOAA CSL on developing a new chemical mechanism, RACM2B-VCP, for the regional chemistry transport model WRF-Chem. RACM2B-VCP is optimized to better represent VOC chemistry and address the impact of VCP and cooking emissions in urban areas such as Los Angelos. 
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+Previously, I earned a BS in Environmental Science and a double major BS in Mathematics from Peking University in 2017. I received a Ph.D. in Earth and Planetary Science with Prof. Ron Cohen from UC Berkeley in 2022. While at Berkely, I participated in the development of v3.0B of the Berkeley High Resolution (BEHR) NO2 product (http://cchem.behr.berkeley.edu/). Most of my Ph.D. has focused on utilizing satellite observations to obtain a better understanding of tropospheric chemistry, such as lightning NOx, and urban OH trends. I have also worked on a project that conducted airborne flux measurements to evaluate anthropogenic NOx emissions and estimate soil NOx emissions over San Joquin Valley.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Click here](/cv.pdf) to download my CV.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+[Click here](/research) to know about my research.
+
+[Click here](/publications) to know about my publications.
+
 
 {% include archive.html %}
