@@ -10,7 +10,7 @@ title: Research
 
 ### Interpret continental-scale OH trends in climate models
 
-![placeholder]([/assets/oh-trend-climate.png]) "OH trends in CESM2 climate model"
+![placeholder](/assets/oh-trend-climate.png "OH trends in CESM2 climate model")
 
 The hydroxyl radical (OH) lies at the nexus of climate and air quality as the primary oxidant for both reactive greenhouse gases and many hazardous air pollutants. The lifetime of methane, a major anthropogenic greenhouse gas causing about one-half of the warming of carbon dioxide since pre-industrial times, is largely set by the global integral of OH concentrations, which vary strongly in space and time.
 
