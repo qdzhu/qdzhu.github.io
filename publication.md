@@ -1,8 +1,6 @@
 ---
 layout: cv
 title: Publications
-pagination:
-  enabled: true
 ---
 
 # Publications
