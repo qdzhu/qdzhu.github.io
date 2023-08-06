@@ -11,8 +11,6 @@ In the meanwhile, I collaborate with NOAA CSL on developing a new chemical mecha
 
 Previously, I earned a BS in Environmental Science and a double major BS in Mathematics from Peking University in 2017. I received a Ph.D. in Earth and Planetary Science with Prof. Ron Cohen from UC Berkeley in 2022. While at Berkely, I participated in the development of v3.0B of the [Berkeley High Resolution (BEHR) NO2 product] (http://cchem.behr.berkeley.edu/). Most of my Ph.D. has focused on utilizing satellite observations to obtain a better understanding of tropospheric chemistry, such as lightning NOx, and urban OH trends. I have also worked on a project that conducted airborne flux measurements to evaluate anthropogenic NOx emissions and estimate soil NOx emissions over San Joquin Valley.
 
-google-site-verification=kUBgQHVOvIDD4Wqn4QJRPWueafO7i-_Wdy7uv9SNZZA
-
 [CV](/cv.pdf) 
 
 [Research](/research) 
