@@ -2,8 +2,8 @@
 
 title: Qindan Zhu
 description: NOAA Global & Climate Change Postdoc Fellow at MIT
-taglong: qindan zhu personal website
-tagshort: qindan zhu
+taglong: NOAA Global & Climate Change Postdoc Fellow at MIT
+tagshort: Qindan Zhu
 url: https://qdzhu.github.io
 baseurl: ""
 permalink: pretty
@@ -14,7 +14,7 @@ repo: https://github.com/qdzhu/qdzhu.github.io
 author:
   name: Qindan Zhu
   email: qdzhu@mit.edu
-photo: /assets/jpg/photo.jpg
+photo: /assets/jpg/headshot.jpg
 
 # build settings
 
