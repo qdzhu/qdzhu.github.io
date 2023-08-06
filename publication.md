@@ -8,7 +8,7 @@ title: Publications
 ## 2023
 **Zhu, Q.**, Place, B., Pfannerstill, E., Goldstein, A. C., Cohen, R. C. (2023). Direct observations of NOx emissions over San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Accepted, Atmospheric Chemistry and Physics.
 
-Romps, D. M., Latimer, K., **Zhu, Q.**, Jurkat‐Witschas, T., Mahnke, C., Prabhakaran, T., ... & Wendisch, M. (2023). Air pollution unable to intensify storms via warm‐phase invigoration. Geophysical Research Letters, e2022GL100409.
+Romps, D. M., Latimer, K., **Zhu, Q.**, Jurkat‐Witschas, T., Mahnke, C., Prabhakaran, T., ... & Wendisch, M. (2023). Air pollution unable to intensify storms via warm‐phase invigoration. Geophysical Research Letters, e2022GL100409. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100409)
 
 ## 2022
 **Zhu, Q.**, Laughner, J. L., & Cohen, R. C. (2022). Estimate of OH trends over one decade in North American cities. Proceedings of the National Academy of Sciences, 119(16), e2117399119.
