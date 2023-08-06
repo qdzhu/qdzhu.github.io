@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Qindan Zhu
+description: NOAA Global & Climate Change Postdoc Fellow at MIT
+taglong: qindan zhu personal website
+tagshort: qindan zhu
+url: https://qdzhu.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/qdzhu/qdzhu.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Qindan Zhu
+  email: qdzhu@mit.edu
 photo: /assets/jpg/photo.jpg
 
 # build settings
