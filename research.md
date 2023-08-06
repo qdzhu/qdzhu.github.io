@@ -10,7 +10,7 @@ title: Research
 
 ## Develop RACM2B-VCP mechanism for WRF-Chem
 
-## Airborne NOx flux measurement (RECAP-CA)
+## Airborne NO<sub>x flux measurement (RECAP-CA)
 
 ## Estimate urban OH trends using ML
 
