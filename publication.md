@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: Publications
 pagination:
   enabled: true
