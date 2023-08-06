@@ -17,5 +17,7 @@ Previously, I earned a BS in Environmental Science and a double major BS in Math
 
 [Publications](/publication) 
 
+{% include contact.html %}
+
 
 
