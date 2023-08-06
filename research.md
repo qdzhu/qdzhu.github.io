@@ -16,7 +16,7 @@ To better understand the spatiotemporal dynamics of OH, we utilize an existing 1
 
 Therefore, we then use a machine learning (ML) technique, a fully connected neural network, to emulate annual mean tropospheric column OH and apply this emulator to identify the dominant drivers contributing to the regional variation in the OH trends.
 
-![placeholder]([./assets/oh-trend-climate.png]) "OH trends in CESM2 climate model")
+![placeholder]([/assets/oh-trend-climate.png]) "OH trends in CESM2 climate model")
 
 ### Develop RACM2B-VCP mechanism for WRF-Chem
 
