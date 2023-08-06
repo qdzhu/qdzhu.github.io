@@ -10,8 +10,8 @@ title: Research
 
 ## Develop RACM2B-VCP mechanism for WRF-Chem
 
-## Airborne NO<sub>x flux measurement (RECAP-CA)
+## Airborne NO<sub>x</sub> flux measurement (RECAP-CA)
 
 ## Estimate urban OH trends using ML
 
-## Constrain lightning NOx using BEHR NO2 retrievals
+## Constrain lightning NO<sub>x</sub> using BEHR NO<sub>2</sub> retrievals
