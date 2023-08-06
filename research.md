@@ -14,12 +14,9 @@ The hydroxyl radical (OH) lies at the nexus of climate and air quality as the pr
 
 To better understand the spatiotemporal dynamics of OH, we utilize an existing 13-member ensemble of the CESM2-WACCM6 chemistry-climate coupled model spanning the years 1950 to 2014. We show a substantial spatial variation of historical trends of tropospheric column OH between 2005 and 2014. 
 
-![image](https://github.com/qdzhu/qdzhu.github.io/assets/31057109/c1293902-9dfb-4fb9-a5c1-7e2cb5a3d079)
-
 Therefore, we then use a machine learning (ML) technique, a fully connected neural network, to emulate annual mean tropospheric column OH and apply this emulator to identify the dominant drivers contributing to the regional variation in the OH trends.
 
-
-![placeholder](https://via.placeholder.com/800x400 "Large example image")
+![placeholder]([./assets/oh-trend-climate.png]) "OH trends in CESM2 climate model")
 
 ### Develop RACM2B-VCP mechanism for WRF-Chem
 
