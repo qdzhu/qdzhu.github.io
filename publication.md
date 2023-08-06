@@ -2,9 +2,10 @@
 layout: cv
 title: Publications
 ---
-{% include contact.html %}
 
 # Publications
+
+[Link to my page on Google scholar](https://scholar.google.com/citations?user=f80mfnEAAAAJ&hl=en)
 
 ## 2023
 
