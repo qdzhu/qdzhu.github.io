@@ -9,6 +9,8 @@ title: Publications
 
 ## 2023
 
+Nussbaumer, C. M., Place, B. K., **Zhu, Q.**, Pfannerstill, E. Y., Wooldridge, P., Schulze, B. C., Arata, C., Ward, R., Bucholtz, A., Seinfeld, J. H., Goldstein, A. H., and Cohen, R. C.: Measurement report: Airborne measurements of NOx fluxes over Los Angeles during the RECAP-CA 2021 campaign, Atmos. Chem. Phys., 23, 13015–13028, 2023.
+
 Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Seinfeld, J. H., ... & Goldstein, A. H. (2023). Volatile organic compound fluxes in the agricultural San Joaquin Valley–spatial distribution, source attribution, and inventory comparison. Atmospheric Chemistry and Physics, 23(19), 12753-12780.
 
 Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Harkins, C., ... & Goldstein, A. H. (2023). Comparison between Spatially Resolved Airborne Flux Measurements and Emission Inventories of Volatile Organic Compounds in Los Angeles. Environmental Science & Technology.
