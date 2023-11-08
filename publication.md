@@ -13,7 +13,7 @@ Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Seinfeld
 
 Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Harkins, C., ... & Goldstein, A. H. (2023). Comparison between Spatially Resolved Airborne Flux Measurements and Emission Inventories of Volatile Organic Compounds in Los Angeles. Environmental Science & Technology.
 
-**Zhu, Q.**, Place, B., Pfannerstill, E., Goldstein, A. C., Cohen, R. C. (2023). Direct observations of NOx emissions over San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Accepted, Atmospheric Chemistry and Physics.
+**Zhu, Q.**, Place, B., Pfannerstill, E. Y., Tong, S., Zhang, H., Wang, J., ... & Cohen, R. C. (2023). Direct observations of NO x emissions over the San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Atmospheric chemistry and physics, 23(17), 9669-9683.
 
 Romps, D. M., Latimer, K., **Zhu, Q.**, Jurkat‐Witschas, T., Mahnke, C., Prabhakaran, T., ... & Wendisch, M. (2023). Air pollution unable to intensify storms via warm‐phase invigoration. Geophysical Research Letters, e2022GL100409. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100409)
 
