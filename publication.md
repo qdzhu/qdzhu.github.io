@@ -17,6 +17,8 @@ Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., H
 
 Coggon, M. M., Stockwell, C. E., Xu, L., Peischl, J., Gilman, J. B., Lamplugh, A., ... **Zhu, Q.**, ... & Warneke, C.(2024). Contribution of Cooking Emissions to the Urban Volatile Organic Compounds in Las Vegas, NV. Atmos. Chem. Phys., 2024, accepted.
 
+Fiore, A. M., Mickley, L. J., **Zhu, Q.**, & Baublitz, C. B. (2024). Climate and Tropospheric Oxidizing Capacity. Annual Review of Earth and Planetary Sciences, 52.
+
 ## 2023
 
 Nussbaumer, C. M., Place, B. K., **Zhu, Q.**, Pfannerstill, E. Y., Wooldridge, P., Schulze, B. C., Arata, C., Ward, R., Bucholtz, A., Seinfeld, J. H., Goldstein, A. H., and Cohen, R. C.: Measurement report: Airborne measurements of NOx fluxes over Los Angeles during the RECAP-CA 2021 campaign, Atmos. Chem. Phys., 23, 13015–13028, 2023.
