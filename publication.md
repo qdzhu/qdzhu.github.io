@@ -21,6 +21,10 @@ Fiore, A. M., Mickley, L. J., **Zhu, Q.**, & Baublitz, C. B. (2024). Climate and
 
 ## 2023
 
+Schulze, B. C., Ward, R. X., Pfannerstill, E. Y., **Zhu, Q.**, Arata, C., Place, B., ... & Seinfeld, J. H. (2023). Methane emissions from dairy operations in California’s San Joaquin Valley evaluated using airborne flux measurements. Environmental Science & Technology, 57(48), 19519-19531.
+
+Yu, K. A., Li, M., Harkins, C., He, J., **Zhu, Q.**, Verreyken, B., ... & Harley, R. A. (2023). Improved Spatial Resolution in Modeling of Nitrogen Oxide Concentrations in the Los Angeles Basin. Environmental Science & Technology, 57(49), 20689-20698.
+
 Nussbaumer, C. M., Place, B. K., **Zhu, Q.**, Pfannerstill, E. Y., Wooldridge, P., Schulze, B. C., Arata, C., Ward, R., Bucholtz, A., Seinfeld, J. H., Goldstein, A. H., and Cohen, R. C.: Measurement report: Airborne measurements of NOx fluxes over Los Angeles during the RECAP-CA 2021 campaign, Atmos. Chem. Phys., 23, 13015–13028, 2023.
 
 Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Seinfeld, J. H., ... & Goldstein, A. H. (2023). Volatile organic compound fluxes in the agricultural San Joaquin Valley–spatial distribution, source attribution, and inventory comparison. Atmospheric Chemistry and Physics, 23(19), 12753-12780.
