@@ -35,6 +35,8 @@ Nitrogen oxides (NO<sub>x</sub>) are principle components of air pollution and s
 
 The calculated NO<sub>x</sub> emissions using flux observations are utilized to evaluate anthropogenic emission inventories and soil NO<sub>x</sub> emission schemes. We show that two anthropogenic inventories for mobile sources, EMFAC (EMssion FACtor) and FIVE (Fuel-based Inventory for Vehicle Emissions), yield strong agreement with emissions derived from measured fluxes over urban regions. Three soil NO<sub>x</sub> schemes, including MEGAN v3 (Model of Emissions of Gases and Aerosols from Nature), BEIS v3.14 (Biogenic Emission Inventory System) and BDISNP (Berkeley Dalhousie Iowa Soil NO Parameterization), show substantial underestimates over the study domain. Compared to the cultivated soil NO<sub>x</sub> emissions derived from measured fluxes, MEGAN and BEIS are lower by more than one order of magnitude and BDISNP is lower by a factor of 2.2. Despite the low bias, observed soil NO<sub>x</sub> emissions and BDISNP present a similar spatial pattern as well as temperature dependence. We conclude that soil NO<sub>x</sub> is a key feature of the NO<sub>x</sub> emissions in the SJV and that a biogeochemical process-based model of these emissions is needed to simulate emissions for modeling air quality in the region.
 
+Publication: [Zhu et al., 2023](https://acp.copernicus.org/articles/23/9669/2023/acp-23-9669-2023.html)
+
 ### Estimate urban OH trends using ML
 
 ![placeholder](/assets/oh-urban.png "Estimated OH trends")
