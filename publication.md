@@ -9,7 +9,7 @@ title: Publications
 
 ## 2024
 
-**Zhu, Q.**, Fiore, A. M., Correa, G., Lamarque, J. F., Worden, H., The impact of internal climate variability on OH trends between 2005 and 2014(2024), Environmental Research Letters, 2024, **in review**
+**Zhu, Q.**, Fiore, A. M., Correa, G., Lamarque, J. F., Worden, H., The impact of internal climate variability on OH trends between 2005 and 2014(2024), Environmental Research Letters, 2024, **in review**.
 
 Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., Harkins, C., Schwantes, R. H., Seinfeld, J. H., Bucholtz, A., Cohen, R. C., Goldstein, A. H.(2024), Temperature-dependent emissions dominate aerosol and ozone formation in Los Angeles, Science, 2024, accepted.
 
