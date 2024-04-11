@@ -17,21 +17,21 @@ Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., H
 
 Coggon, M. M., Stockwell, C. E., Xu, L., Peischl, J., Gilman, J. B., Lamplugh, A., ... **Zhu, Q.**, ... & Warneke, C.(2024). Contribution of Cooking Emissions to the Urban Volatile Organic Compounds in Las Vegas, NV. Atmos. Chem. Phys., 2024, accepted.
 
-Fiore, A. M., Mickley, L. J., **Zhu, Q.**, & Baublitz, C. B. (2024). Climate and Tropospheric Oxidizing Capacity. Annual Review of Earth and Planetary Sciences, 52.
+Fiore, A. M., Mickley, L. J., **Zhu, Q.**, & Baublitz, C. B. (2024). Climate and Tropospheric Oxidizing Capacity. Annual Review of Earth and Planetary Sciences, 52. [[Link]](https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032320-090307)
 
 ## 2023
 
-Schulze, B. C., Ward, R. X., Pfannerstill, E. Y., **Zhu, Q.**, Arata, C., Place, B., ... & Seinfeld, J. H. (2023). Methane emissions from dairy operations in California’s San Joaquin Valley evaluated using airborne flux measurements. Environmental Science & Technology, 57(48), 19519-19531.
+Schulze, B. C., Ward, R. X., Pfannerstill, E. Y., **Zhu, Q.**, Arata, C., Place, B., ... & Seinfeld, J. H. (2023). Methane emissions from dairy operations in California’s San Joaquin Valley evaluated using airborne flux measurements. Environmental Science & Technology, 57(48), 19519-19531. [[Link]](https://pubs.acs.org/doi/10.1021/acs.est.3c03940)
 
-Yu, K. A., Li, M., Harkins, C., He, J., **Zhu, Q.**, Verreyken, B., ... & Harley, R. A. (2023). Improved Spatial Resolution in Modeling of Nitrogen Oxide Concentrations in the Los Angeles Basin. Environmental Science & Technology, 57(49), 20689-20698.
+Yu, K. A., Li, M., Harkins, C., He, J., **Zhu, Q.**, Verreyken, B., ... & Harley, R. A. (2023). Improved Spatial Resolution in Modeling of Nitrogen Oxide Concentrations in the Los Angeles Basin. Environmental Science & Technology, 57(49), 20689-20698. [[Link]](https://pubs.acs.org/doi/10.1021/acs.est.3c06158)
 
-Nussbaumer, C. M., Place, B. K., **Zhu, Q.**, Pfannerstill, E. Y., Wooldridge, P., Schulze, B. C., Arata, C., Ward, R., Bucholtz, A., Seinfeld, J. H., Goldstein, A. H., and Cohen, R. C.: Measurement report: Airborne measurements of NOx fluxes over Los Angeles during the RECAP-CA 2021 campaign, Atmos. Chem. Phys., 23, 13015–13028, 2023.
+Nussbaumer, C. M., Place, B. K., **Zhu, Q.**, Pfannerstill, E. Y., Wooldridge, P., Schulze, B. C., Arata, C., Ward, R., Bucholtz, A., Seinfeld, J. H., Goldstein, A. H., and Cohen, R. C.: Measurement report: Airborne measurements of NOx fluxes over Los Angeles during the RECAP-CA 2021 campaign, Atmos. Chem. Phys., 23, 13015–13028, 2023. [[Link]](https://acp.copernicus.org/articles/23/13015/2023/)
 
-Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Seinfeld, J. H., ... & Goldstein, A. H. (2023). Volatile organic compound fluxes in the agricultural San Joaquin Valley–spatial distribution, source attribution, and inventory comparison. Atmospheric Chemistry and Physics, 23(19), 12753-12780.
+Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Seinfeld, J. H., ... & Goldstein, A. H. (2023). Volatile organic compound fluxes in the agricultural San Joaquin Valley–spatial distribution, source attribution, and inventory comparison. Atmospheric Chemistry and Physics, 23(19), 12753-12780. [[Link]](https://acp.copernicus.org/articles/23/12753/2023/)
 
-Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Harkins, C., ... & Goldstein, A. H. (2023). Comparison between Spatially Resolved Airborne Flux Measurements and Emission Inventories of Volatile Organic Compounds in Los Angeles. Environmental Science & Technology.
+Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schulze, B. C., Woods, R., Harkins, C., ... & Goldstein, A. H. (2023). Comparison between Spatially Resolved Airborne Flux Measurements and Emission Inventories of Volatile Organic Compounds in Los Angeles. Environmental Science & Technology. [[Link]](https://pubs.acs.org/doi/10.1021/acs.est.3c03162)
 
-**Zhu, Q.**, Place, B., Pfannerstill, E. Y., Tong, S., Zhang, H., Wang, J., ... & Cohen, R. C. (2023). Direct observations of NO x emissions over the San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Atmospheric chemistry and physics, 23(17), 9669-9683.
+**Zhu, Q.**, Place, B., Pfannerstill, E. Y., Tong, S., Zhang, H., Wang, J., ... & Cohen, R. C. (2023). Direct observations of NO x emissions over the San Joaquin Valley using airborne flux measurements during RECAP-CA 2021 field campaign. Atmospheric chemistry and physics, 23(17), 9669-9683. [[Link]](https://acp.copernicus.org/articles/23/9669/2023/acp-23-9669-2023.html)
 
 Romps, D. M., Latimer, K., **Zhu, Q.**, Jurkat‐Witschas, T., Mahnke, C., Prabhakaran, T., ... & Wendisch, M. (2023). Air pollution unable to intensify storms via warm‐phase invigoration. Geophysical Research Letters, e2022GL100409. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100409)
 
