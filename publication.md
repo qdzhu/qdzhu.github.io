@@ -15,7 +15,7 @@ Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., H
 
 **Zhu, Q.**, Schwantes, R. H., Coggon, M., Harkins, C., Schnell, J., He, J., Pye, H. O. T., Li, M., Baker, B., Moon, Z., Ahmadov, R., ... & McDonald, B. C.(2024), A better representation of VOC chemistry in WRF-Chem and its impact on ozone over Los Angeles, Atmos. Chem. Phys., 2024, **accepted**.
 
-Coggon, M. M., Stockwell, C. E., Xu, L., Peischl, J., Gilman, J. B., Lamplugh, A., ... **Zhu, Q.**, ... & Warneke, C.(2024). Contribution of Cooking Emissions to the Urban Volatile Organic Compounds in Las Vegas, NV. Atmos. Chem. Phys., 2024, **accepted**.
+Coggon, M. M., Stockwell, C. E., Xu, L., Peischl, J., Gilman, J. B., Lamplugh, A., ... **Zhu, Q.**, ... & Warneke, C.(2024). Contribution of Cooking Emissions to the Urban Volatile Organic Compounds in Las Vegas, NV. Atmos. Chem. Phys. 24, no. 7 (2024): 4289-4304. [[Link]](https://acp.copernicus.org/articles/24/4289/2024/)
 
 Fiore, A. M., Mickley, L. J., **Zhu, Q.**, & Baublitz, C. B. (2024). Climate and Tropospheric Oxidizing Capacity. Annual Review of Earth and Planetary Sciences, 52. [[Link]](https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032320-090307)
 
