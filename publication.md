@@ -9,13 +9,13 @@ title: Publications
 
 ## 2024
 
-Yu, X., Fiore, A. M., Santer, B. D., Correa, G. P., Lamarque, J. F., Ziemke, J. R., ... & **Zhu, Q.** (2024). Anthropogenic Fingerprint Detectable in Upper Tropospheric Ozone Trends Retrieved from Satellite. Environmental Science \& Technology. [[Link]] (https://pubs.acs.org/doi/10.1021/acs.est.4c01289)
+Yu, X., Fiore, A. M., Santer, B. D., Correa, G. P., Lamarque, J. F., Ziemke, J. R., ... & **Zhu, Q.** (2024). Anthropogenic Fingerprint Detectable in Upper Tropospheric Ozone Trends Retrieved from Satellite. Environmental Science \& Technology. [[Link]](https://pubs.acs.org/doi/10.1021/acs.est.4c01289)
 
-**Zhu, Q.**, Fiore, A. M., Correa, G., Lamarque, J. F., Worden, H., The impact of internal climate variability on OH trends between 2005 and 2014, Environmental Research Letters, 2024, 19 (6), 064032. [[Link]] (https://iopscience.iop.org/article/10.1088/1748-9326/ad4b47)
+**Zhu, Q.**, Fiore, A. M., Correa, G., Lamarque, J. F., Worden, H., The impact of internal climate variability on OH trends between 2005 and 2014, Environmental Research Letters, 2024, 19 (6), 064032. [[Link]](https://iopscience.iop.org/article/10.1088/1748-9326/ad4b47)
 
-Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., Harkins, C., Schwantes, R. H., Seinfeld, J. H., Bucholtz, A., Cohen, R. C., Goldstein, A. H.(2024), Temperature-dependent emissions dominate aerosol and ozone formation in Los Angeles, Science, 2024, 384 (6702), 1324-1329. [[Link]] (https://www.science.org/doi/10.1126/science.adg8204)
+Pfannerstill, E. Y., Arata, C., **Zhu, Q.**, Schnell, J., Ward. R., Woods, R., Harkins, C., Schwantes, R. H., Seinfeld, J. H., Bucholtz, A., Cohen, R. C., Goldstein, A. H.(2024), Temperature-dependent emissions dominate aerosol and ozone formation in Los Angeles, Science, 2024, 384 (6702), 1324-1329. [[Link]](https://www.science.org/doi/10.1126/science.adg8204)
 
-**Zhu, Q.**, Schwantes, R. H., Coggon, M., Harkins, C., Schnell, J., He, J., Pye, H. O. T., Li, M., Baker, B., Moon, Z., Ahmadov, R., ... & McDonald, B. C.(2024), A better representation of VOC chemistry in WRF-Chem and its impact on ozone over Los Angeles, Atmos. Chem. Phys., 2024, 24, 5265–5286. [[Link]] (https://acp.copernicus.org/articles/24/5265/2024/)
+**Zhu, Q.**, Schwantes, R. H., Coggon, M., Harkins, C., Schnell, J., He, J., Pye, H. O. T., Li, M., Baker, B., Moon, Z., Ahmadov, R., ... & McDonald, B. C.(2024), A better representation of VOC chemistry in WRF-Chem and its impact on ozone over Los Angeles, Atmos. Chem. Phys., 2024, 24, 5265–5286. [[Link]](https://acp.copernicus.org/articles/24/5265/2024/)
 
 Coggon, M. M., Stockwell, C. E., Xu, L., Peischl, J., Gilman, J. B., Lamplugh, A., ... **Zhu, Q.**, ... & Warneke, C.(2024). Contribution of Cooking Emissions to the Urban Volatile Organic Compounds in Las Vegas, NV. Atmos. Chem. Phys. 24, no. 7 (2024): 4289-4304. [[Link]](https://acp.copernicus.org/articles/24/4289/2024/)
 
