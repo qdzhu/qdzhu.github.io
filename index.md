@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I am currently a NOAA Climate & Global Change (C&GC) postdoctoral fellow working with Prof. Arlene Fiore at MIT since August 2022. My research centers on chemistry-climate interaction. I study hydroxyl radical (OH) since OH lies at the nexus of climate and air quality as the primary oxidant for both reactive greenhouse gases and many hazardous air pollutants.
+I am currently the MIT Houghton Postdoctoral Fellow and was previously the NOAA Climate & Global Change (C&GC) Postdoctoral Fellow, working with Prof. Arlene Fiore at MIT since August 2022. My research centers on chemistry-climate interaction. I study hydroxyl radical (OH) since OH lies at the nexus of climate and air quality as the primary oxidant for both reactive greenhouse gases and many hazardous air pollutants.
 
 In the meanwhile, I collaborate with NOAA CSL on developing a new chemical mechanism, RACM2B-VCP, for the regional chemistry transport model WRF-Chem. RACM2B-VCP is optimized to better represent VOC chemistry and address the impact of VCP and cooking emissions in urban areas such as Los Angeles (LA). I investigate the effectiveness of the most recent policy, zero-emission vehicle regulation, on reducing O3 pollution in the LA Basin.
 
